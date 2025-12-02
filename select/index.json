@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "READY STEADY GO",
+  "base_artist": "L'Arc～en～Ciel",
+  "createdAt": "2025-12-02T20:27:13.994534Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ready, Steady, Go",
+      "artist": "Billy Idol",
+      "has_synced": true,
+      "path": "select/01_Ready,_Steady,_Go_Billy_Idol.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ready Steady Go",
+      "artist": "Billy Idol",
+      "has_synced": true,
+      "path": "select/02_Ready_Steady_Go_Billy_Idol.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Ready, Steady, Go",
+      "artist": "Paul Oakenfold",
+      "has_synced": true,
+      "path": "select/03_Ready,_Steady,_Go_Paul_Oakenfold.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Ready, Steady, Go",
+      "artist": "The Meices",
+      "has_synced": true,
+      "path": "select/04_Ready,_Steady,_Go_The_Meices.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "READY STEADY GO",
+      "artist": "L'Arc〜en〜Ciel",
+      "has_synced": true,
+      "path": "select/05_READY_STEADY_GO_L'Arc〜en〜Ciel.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "READY STEADY GO",
+      "artist": "L'Arc~en~Ciel",
+      "has_synced": true,
+      "path": "select/06_READY_STEADY_GO_L'Arc~en~Ciel.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Ready Steady Go (From \"Anbarivu\")",
+      "artist": "Santhosh Narayanan feat. Chinna Ponnu & Srinisha Jayaseelan",
+      "has_synced": true,
+      "path": "select/07_Ready_Steady_Go_(From__Anbarivu_)_Santhosh_Narayanan_feat._Chinna_Ponnu_&_Srinisha_Jayaseelan.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Ready Steady Go",
+      "artist": "Santhosh Narayanan",
+      "has_synced": true,
+      "path": "select/08_Ready_Steady_Go_Santhosh_Narayanan.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "READY STEADY GO",
+      "artist": "L'Arc~en~Ciel",
+      "has_synced": true,
+      "path": "select/09_READY_STEADY_GO_L'Arc~en~Ciel.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Ready Steady Go (2002 Remaster)",
+      "artist": "Generation X",
+      "has_synced": false,
+      "path": "select/10_Ready_Steady_Go_(2002_Remaster)_Generation_X.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Ready Steady Go (2002 Remaster)",
+      "artist": "Generation X",
+      "has_synced": true,
+      "path": "select/11_Ready_Steady_Go_(2002_Remaster)_Generation_X.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Ready Steady Go - Vocals: Asher D",
+      "artist": "Paul Oakenfold",
+      "has_synced": true,
+      "path": "select/12_Ready_Steady_Go_-_Vocals__Asher_D_Paul_Oakenfold.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Ready Steady Go (Vocals Asher D)",
+      "artist": "Oakenfold",
+      "has_synced": true,
+      "path": "select/13_Ready_Steady_Go_(Vocals_Asher_D)_Oakenfold.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Ready Steady Go! - Corderoy Radio Edit",
+      "artist": "Paul Oakenfold",
+      "has_synced": false,
+      "path": "select/14_Ready_Steady_Go!_-_Corderoy_Radio_Edit_Paul_Oakenfold.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Ready Steady Go (from \"Fullmetal Alchemist\") [English Ver]",
+      "artist": "AmaLee",
+      "has_synced": true,
+      "path": "select/15_Ready_Steady_Go_(from__Fullmetal_Alchemist_)_[English_Ver]_AmaLee.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Ready Steady Go!",
+      "artist": "The (International) Noise Conspiracy",
+      "has_synced": false,
+      "path": "select/16_Ready_Steady_Go!_The_(International)_Noise_Conspiracy.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Ready Steady Go",
+      "artist": "Generation X",
+      "has_synced": true,
+      "path": "select/17_Ready_Steady_Go_Generation_X.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "READY STEADY GO",
+      "artist": "L'Arc～en～Ciel",
+      "has_synced": true,
+      "path": "select/18_READY_STEADY_GO_L'Arc~en~Ciel.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "READY STEADY GO",
+      "artist": "L'Arc～en～Ciel",
+      "has_synced": false,
+      "path": "select/pl_01_READY_STEADY_GO_L'Arc~en~Ciel.txt"
+    }
+  ]
+}
